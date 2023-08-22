@@ -7,6 +7,7 @@ function Gameboard() {
     board[i] = [];
     for (let j = 0; j < columns; j++) {
       board[i].push(Cell());
+      //edit
     }
   }
 
